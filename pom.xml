@@ -5,7 +5,12 @@
 	<groupId>com.github.Pavel4444</groupId>
 	<artifactId>test_case</artifactId>
 <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 <description>příklad do testu</description>
+=======
+
+<name>test_case</name>
+>>>>>>> dev
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
